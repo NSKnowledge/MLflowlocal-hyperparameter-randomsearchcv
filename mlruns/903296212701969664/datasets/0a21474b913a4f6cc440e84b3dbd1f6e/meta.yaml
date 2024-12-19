@@ -1,0 +1,14 @@
+digest: '97487327'
+name: dataset
+profile: '{"num_rows": 2620, "num_elements": 26200}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "ph", "required": true}, {"type":
+  "double", "name": "Hardness", "required": true}, {"type": "double", "name": "Solids",
+  "required": true}, {"type": "double", "name": "Chloramines", "required": true},
+  {"type": "double", "name": "Sulfate", "required": true}, {"type": "double", "name":
+  "Conductivity", "required": true}, {"type": "double", "name": "Organic_carbon",
+  "required": true}, {"type": "double", "name": "Trihalomethanes", "required": true},
+  {"type": "double", "name": "Turbidity", "required": true}, {"type": "long", "name":
+  "Potability", "required": true}]}'
+source: '{"tags": {"mlflow.user": "u350272", "mlflow.source.name": "randsrchcv.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "e2fa241ea274c6c908fd60ff151140d9c1a3c759"}}'
+source_type: code

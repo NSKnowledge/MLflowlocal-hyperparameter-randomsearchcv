@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/290148048181869133/dea4974a19374212b5cfa5868c6ff192/artifacts
+end_time: 1734580521952
+entry_point_name: ''
+experiment_id: '290148048181869133'
+lifecycle_stage: active
+run_id: dea4974a19374212b5cfa5868c6ff192
+run_name: brawny-doe-464
+run_uuid: dea4974a19374212b5cfa5868c6ff192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734580503221
+status: 3
+tags: []
+user_id: u350272

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847018595385143117/e0c9c510763042a68ffe9592c7710785/artifacts
+end_time: 1734528837228
+entry_point_name: ''
+experiment_id: '847018595385143117'
+lifecycle_stage: active
+run_id: e0c9c510763042a68ffe9592c7710785
+run_name: likeable-hen-428
+run_uuid: e0c9c510763042a68ffe9592c7710785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734528820861
+status: 3
+tags: []
+user_id: u350272

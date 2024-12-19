@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/68f800034fc24699a40bbf686525909d/artifacts
+deleted_time: 1734586858826
+end_time: 1734586386358
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: deleted
+run_id: 68f800034fc24699a40bbf686525909d
+run_name: rogue-quail-634
+run_uuid: 68f800034fc24699a40bbf686525909d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734586270276
+status: 4
+tags: []
+user_id: u350272

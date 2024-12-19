@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/10d220abe6d644ffaba0d691864bc616/artifacts
+end_time: 1734588047467
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: active
+run_id: 10d220abe6d644ffaba0d691864bc616
+run_name: Random forest tuning
+run_uuid: 10d220abe6d644ffaba0d691864bc616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734587926071
+status: 3
+tags: []
+user_id: u350272

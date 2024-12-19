@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f9a2567e8b604a62ac1f16782f633109/artifacts
+end_time: 1734527023151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f9a2567e8b604a62ac1f16782f633109
+run_name: shivering-ant-279
+run_uuid: f9a2567e8b604a62ac1f16782f633109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734527010634
+status: 3
+tags: []
+user_id: u350272

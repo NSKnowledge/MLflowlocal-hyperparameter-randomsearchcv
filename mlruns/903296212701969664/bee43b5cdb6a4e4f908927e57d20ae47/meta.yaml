@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/bee43b5cdb6a4e4f908927e57d20ae47/artifacts
+deleted_time: 1734586858841
+end_time: 1734583328777
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: deleted
+run_id: bee43b5cdb6a4e4f908927e57d20ae47
+run_name: dashing-lynx-505
+run_uuid: bee43b5cdb6a4e4f908927e57d20ae47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734583219050
+status: 4
+tags: []
+user_id: u350272

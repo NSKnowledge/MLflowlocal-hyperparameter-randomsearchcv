@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/2f01309294054198836bde5ea12e62de/artifacts
+deleted_time: 1734586858842
+end_time: 1734583733958
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: deleted
+run_id: 2f01309294054198836bde5ea12e62de
+run_name: bouncy-swan-97
+run_uuid: 2f01309294054198836bde5ea12e62de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734583624131
+status: 4
+tags: []
+user_id: u350272

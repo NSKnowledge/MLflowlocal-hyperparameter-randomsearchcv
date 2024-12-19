@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/8eb4b1274a534cd8b67e003f0e2e50dc/artifacts
+deleted_time: 1734586858828
+end_time: 1734586601473
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: deleted
+run_id: 8eb4b1274a534cd8b67e003f0e2e50dc
+run_name: persistent-bear-293
+run_uuid: 8eb4b1274a534cd8b67e003f0e2e50dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734586480214
+status: 4
+tags: []
+user_id: u350272

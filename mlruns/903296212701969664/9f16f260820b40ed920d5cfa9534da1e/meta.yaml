@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/9f16f260820b40ed920d5cfa9534da1e/artifacts
+deleted_time: 1734586858841
+end_time: 1734583951148
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: deleted
+run_id: 9f16f260820b40ed920d5cfa9534da1e
+run_name: upbeat-donkey-635
+run_uuid: 9f16f260820b40ed920d5cfa9534da1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734583841739
+status: 4
+tags: []
+user_id: u350272

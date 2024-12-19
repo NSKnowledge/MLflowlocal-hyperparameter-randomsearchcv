@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/f2c32871089846a8a0865ff20b9c11d7/artifacts
+deleted_time: 1734586858829
+end_time: 1734584133282
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: deleted
+run_id: f2c32871089846a8a0865ff20b9c11d7
+run_name: languid-panda-963
+run_uuid: f2c32871089846a8a0865ff20b9c11d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734584018787
+status: 4
+tags: []
+user_id: u350272

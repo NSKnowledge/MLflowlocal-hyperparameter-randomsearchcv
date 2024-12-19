@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/290148048181869133/d4772a9df65a4f1aa7ee8a646aa6d61c/artifacts
+end_time: 1734580601780
+entry_point_name: ''
+experiment_id: '290148048181869133'
+lifecycle_stage: active
+run_id: d4772a9df65a4f1aa7ee8a646aa6d61c
+run_name: dazzling-sow-10
+run_uuid: d4772a9df65a4f1aa7ee8a646aa6d61c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734580584208
+status: 3
+tags: []
+user_id: u350272

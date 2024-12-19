@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/u350272/OneDrive%20-%20WNS/Documents/StudyProj/mlops/exp-mlflow/mlruns/903296212701969664/a3e182395e6b4be5bb88fd6419b97fd0/artifacts
+end_time: 1734588035215
+entry_point_name: ''
+experiment_id: '903296212701969664'
+lifecycle_stage: active
+run_id: a3e182395e6b4be5bb88fd6419b97fd0
+run_name: Combination25
+run_uuid: a3e182395e6b4be5bb88fd6419b97fd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588035105
+status: 3
+tags: []
+user_id: u350272

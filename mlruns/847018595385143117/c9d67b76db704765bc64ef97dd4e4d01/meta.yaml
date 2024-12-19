@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847018595385143117/c9d67b76db704765bc64ef97dd4e4d01/artifacts
+end_time: 1734528992797
+entry_point_name: ''
+experiment_id: '847018595385143117'
+lifecycle_stage: active
+run_id: c9d67b76db704765bc64ef97dd4e4d01
+run_name: caring-lark-371
+run_uuid: c9d67b76db704765bc64ef97dd4e4d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734528975462
+status: 3
+tags: []
+user_id: u350272

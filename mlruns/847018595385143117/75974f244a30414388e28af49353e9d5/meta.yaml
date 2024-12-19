@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847018595385143117/75974f244a30414388e28af49353e9d5/artifacts
+deleted_time: 1734579873297
+end_time: 1734579624081
+entry_point_name: ''
+experiment_id: '847018595385143117'
+lifecycle_stage: deleted
+run_id: 75974f244a30414388e28af49353e9d5
+run_name: useful-hawk-81
+run_uuid: 75974f244a30414388e28af49353e9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734579613996
+status: 4
+tags: []
+user_id: u350272

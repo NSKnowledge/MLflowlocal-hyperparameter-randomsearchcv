@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/17fb8b72e5f341e5ad667e9a8fa1c0ed/artifacts
+end_time: 1734526644135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17fb8b72e5f341e5ad667e9a8fa1c0ed
+run_name: thoughtful-jay-403
+run_uuid: 17fb8b72e5f341e5ad667e9a8fa1c0ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734526638383
+status: 4
+tags: []
+user_id: u350272
